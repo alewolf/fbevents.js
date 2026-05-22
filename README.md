@@ -52,7 +52,7 @@ https://connect.facebook.net/en_US/fbevents.js
 To pin a specific historical version, link via jsDelivr:
 
 ```
-https://cdn.jsdelivr.net/gh/alewolf/fbqevent.js/versions/2.9.324.js
+https://cdn.jsdelivr.net/gh/alewolf/fbevents.js/versions/2.9.324.js
 ```
 
 Replace the version number in the path as needed.
